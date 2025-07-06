@@ -63,35 +63,6 @@ Great for educational tech, streaming analytics, productivity tracking, and vide
 
 ---
 
-## 🧪 Getting Started
-
-### 1️⃣ Clone the repo:
-
-```bash
-git clone https://github.com/your-username/multimodal-engagement-meter.git
-cd multimodal-engagement-meter
-```
-
-### 2️⃣ Install requirements:
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Streamlit app:
-
-```bash
-streamlit run streamlit_app.py
-```
-
-> Or use the OpenCV-based CLI version via:
-
-```bash
-python main.py
-```
-
----
-
 ## 📸 Preview
 
 | Streamlit UI              | Engagement Plots           |
